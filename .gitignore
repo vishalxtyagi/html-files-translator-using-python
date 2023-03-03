@@ -1,0 +1,9 @@
+# Ignore output files
+translated/
+
+# Ignore virtualenv files
+venv/
+.vscode/
+
+# Ignore test files
+test.py
